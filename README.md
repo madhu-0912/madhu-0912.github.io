@@ -19,7 +19,7 @@ This portfolio is a reflection of my journey in data analytics, where I blend te
 
 ## Get In Touch
 
-Feel free to reach out to me on [LinkedIn]([YourLinkedInURL](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/)) or via email at `mpuppala2@horizon.csueastbay.edu`. Let's connect and explore how data can drive better decisions together!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/) or via email at `mpuppala2@horizon.csueastbay.edu`. Let's connect and explore how data can drive better decisions together!
 
 Thank you for visiting, and I hope you find my work insightful.
 
