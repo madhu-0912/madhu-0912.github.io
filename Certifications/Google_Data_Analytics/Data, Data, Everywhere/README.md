@@ -17,7 +17,7 @@ I am thrilled to share my recent accomplishment of completing the "Foundations: 
 
 This certificate demonstrates my capability to handle data-driven tasks and enhances my analytical skill set, preparing me for roles that require interpreting and making informed decisions based on data. I look forward to applying these skills in practical, real-world challenges.
 
-![Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/verify/V667K97NPX88)
+For a closer look at my certificate, please visit the following link:[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/verify/V667K97NPX88)
 
 Feel free to explore my other projects and repositories to see the practical applications of the skills I've acquired.
 
