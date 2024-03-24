@@ -23,7 +23,7 @@ Feel free to reach out to me on [<a href="https://www.linkedin.com/in/madhu-sudh
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/200px-LinkedIn_2021.svg.png" width="80" alt="LinkedIn">
 </a>
 ](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/)
- or via email at `mpuppala2@horizon.csueastbay.edu`. Let's connect and explore how data can drive better decisions together!
+ or via email at [https://en.wikipedia.org/wiki/File:Gmail_icon_(2020).svg](mpuppala2@horizon.csueastbay.edu). Let's connect and explore how data can drive better decisions together!
 
 Thank you for visiting, and I hope you find my work insightful.
 
