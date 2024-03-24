@@ -24,7 +24,7 @@ Feel free to reach out to me on [<a href="https://www.linkedin.com/in/madhu-sudh
 </a>
 ](https://www.linkedin.com/in/madhu-sudhan-reddy-puppala/)
  or via email at <a href="mailto:mpuppala2@horizon.csueastbay.edu">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" width="50" alt="Gmail">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/100px-Gmail_icon_%282020%29.svg.png" width="30" alt="Gmail">
 </a>
 . Let's connect and explore how data can drive better decisions together!
 
