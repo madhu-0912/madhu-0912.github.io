@@ -15,7 +15,7 @@ This portfolio is a reflection of my journey in data analytics, where I blend te
 - Advanced data manipulation and visualization
 - Predictive modeling and machine learning
 - Data warehousing and business intelligence
-- And much more!
+- And much more!!!
 
 ## Get In Touch
 
