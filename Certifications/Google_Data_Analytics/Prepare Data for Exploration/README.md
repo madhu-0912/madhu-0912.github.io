@@ -4,7 +4,7 @@ This repository contains my coursework and projects from the "Prepare Data for E
 
 ## Certificate
 
-My certificate is available [here]([URL-to-your-certificate](https://coursera.org/share/ba2ab45f2fcccb7a145517abb8470556)).
+My certificate is available [here]([https://coursera.org/share/ba2ab45f2fcccb7a145517abb8470556]).
 
 ## About the Course
 
