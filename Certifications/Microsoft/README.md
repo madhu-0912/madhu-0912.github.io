@@ -3,7 +3,7 @@
 ### Credential ID: 6C28DEFC920876A7
 ### Certification Number: CV91CF-6C542F
 
-![Microsoft Certified Power BI Data Analyst Badge](https://yourbadgeimageurl.com) 
+![Microsoft Certified Power BI Data Analyst Badge](https://github.com/madhu-0912/madhu-0912.github.io/blob/main/Certifications/Microsoft/Credentials%20-%20madhusudhanreddy-3739%20_%20Microsoft%20Learn.pdf) 
 
 ## About the Certification
 I have successfully earned the **Microsoft Certified: Power BI Data Analyst Associate** certification, which showcases my expertise in leveraging Microsoft Power BI to help stakeholders maximize the value of their data assets.
