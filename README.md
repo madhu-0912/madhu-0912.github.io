@@ -1,4 +1,4 @@
-# Welcome to My Data Analyst Portfolio
+# Welcome to My Data & Analytics Portfolio
 
 Hello! I'm Madhu Sudhan Reddy Puppala, a graduate student at California State University East Bay, pursuing my Master of Science in Business Analytics. With a background in Mechanical Engineering and a passion for data-driven decision-making, I aim to bridge the gap between data and actionable insights.
 
